@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RespTickets:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RespTickets_jar</output-path>
+    <root id="archive" name="RespTickets.jar">
+      <element id="module-output" name="RespTickets" />
+    </root>
+  </artifact>
+</component>
